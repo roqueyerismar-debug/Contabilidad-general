@@ -1,2 +1,3 @@
-# Contabilidad-general
-Registro de asientos, conciliaciones y manejo de libros auxiliares.
+¡Hola! Soy Yerismar Roque 👋Contador Público Aprendiz | Entusiasta de la Tecnología y Analítica de Datos
+¡Bienvenido a mi perfil de GitHub! Soy Contador Público enfocado en la automatización de procesos financieros, el análisis de datos contables y la modernización de la gestión fiscal.Busco combinar los principios contables tradicionales con herramientas digitales para hacer las finanzas más eficientes, claras y estratégicas.
+💼 En lo que me enfoco📊 Análisis de Datos Financieros: Creación de tableros de control para la toma de decisiones.🤖 Automatización: Optimización de reportes repetitivos y conciliaciones bancarias.🧾 Gestión Fiscal y Auditoría: Aplicación de tecnología para auditorías digitales rápidas.
